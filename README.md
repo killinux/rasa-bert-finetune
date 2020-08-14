@@ -7,8 +7,10 @@ rasa json格式的数据，放置在当前目录data文件夹下，train的json�
 
 ## Version
 ```
-bert-serving-client == 1.6.0
-bert-serving-server == 1.6.0
+pip install bert-serving-server==1.8.9
+pip install bert-serving-client==1.8.9
+#bert-serving-client == 1.6.0
+#bert-serving-server == 1.6.0
 ```
 
 ## Command
